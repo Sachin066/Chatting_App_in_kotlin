@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350240630401",
+    "firebase_url": "https://friends-dost-default-rtdb.firebaseio.com",
+    "project_id": "friends-dost",
+    "storage_bucket": "friends-dost.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350240630401:android:9c954a5df7b92e2202cf80",
+        "android_client_info": {
+          "package_name": "com.example.friendsdost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350240630401-aj64spqfichvu8md8bfghoojpi89qa05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbJbmUr6XIjHCdgqXhVwLUo2ukitA2Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350240630401-aj64spqfichvu8md8bfghoojpi89qa05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
