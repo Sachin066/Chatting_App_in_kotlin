@@ -26,7 +26,7 @@ It is an open-source app with real-time messaging using Firebase and Kotlin.
 
 # Downloading the source code
 
-You can download complete Chat App source code as a <a href="https://github.com/krishkamani/ChatApp/archive/master.zip"> Zip file</a>.
+You can download complete Chat App source code as a <a href="https://github.com/Sachin066/Chatting_App_in_kotlin/archive/refs/heads/master.zip"> Zip file</a>.
 you will have to download the complete source code everytime it is updated on the repository.
 
 ### Stay Up to date
