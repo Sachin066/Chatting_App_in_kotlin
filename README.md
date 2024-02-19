@@ -12,7 +12,8 @@ It is an open-source app with real-time messaging using Firebase and Kotlin.
 
 
 ## Images:
-![1](https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/1.jpg?raw=100x20)
+![1](https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/1.jpg?raw=true width="200" height="400" )
+<img src="https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/1.jpg?raw=true" width="200" height="400">
 
 ![2](https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/2.jpg?raw=true)
 
