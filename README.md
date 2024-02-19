@@ -12,14 +12,18 @@ It is an open-source app with real-time messaging using Firebase and Kotlin.
 
 
 ## Images:
-![1](https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/1.jpg?raw=true width="200" height="400" )
+
 <img src="https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/1.jpg?raw=true" width="200" height="400">
 
-![2](https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/2.jpg?raw=true)
+<img src="https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/2.jpg?raw=true" width="200" height="400">
 
-![3](https://user-images.githubusercontent.com/52067673/83350057-f15adc00-a356-11ea-8bd7-fbf09e9652ad.PNG)
+<img src="https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/3.jpg?raw=true" width="200" height="400">
 
-![4](https://user-images.githubusercontent.com/52067673/83350128-878f0200-a357-11ea-94dc-070bba60fbe5.PNG)
+<img src="https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/4.jpg?raw=true" width="200" height="400">
+
+<img src="https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/5.jpg?raw=true" width="200" height="400">
+
+<img src="https://github.com/Sachin066/Chatting_App_in_kotlin/blob/master/screenshot/6.jpg?raw=true" width="200" height="400">
 
 
 # Downloading the source code
