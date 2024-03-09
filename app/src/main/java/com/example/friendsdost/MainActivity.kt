@@ -34,6 +34,8 @@ class MainActivity : AppCompatActivity() {
             finish()
         }
 
+
+
        val adapter = ViewPagerAdapter(this,supportFragmentManager,fragmentArrayList)
 
         binding!!.viewPager.adapter = adapter
